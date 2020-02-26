@@ -1,2 +1,2 @@
 # FirstAR 
-https://aaron135135.github.io/FirstAR/nikkitree.html
+https://aaron135135.github.io/FirstAR/nikkitree
